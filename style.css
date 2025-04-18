@@ -45,7 +45,7 @@ input {
 }
 
 button {
-    width: 100%;
+    width: 20%;
     padding: 12px;
     background-color: #1877f2;
     color: white;
@@ -193,7 +193,7 @@ a:hover {
 }
 
 .message-form input {
-    flex: 1;
+    /* flex: 1; */
     margin-right: 10px;
 }
 
